@@ -3,7 +3,7 @@ package try1;
 import java.awt.*;
 import javax.swing.*;
 
-//with TwoButtons
+//with TwoButtons and SimpleGui3C
 
 class MyDrawPanel extends JPanel{
 	public void paintComponent(Graphics g) {

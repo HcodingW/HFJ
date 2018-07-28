@@ -5,7 +5,7 @@ import java.awt.event.*;
 
 import javax.swing.*;
 
-//with MyDrawPanel
+//with MyDrawPanel and SimpleGui3C
 
 public class TwoButtons {
 	JFrame frame;
